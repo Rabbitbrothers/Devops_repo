@@ -23,4 +23,4 @@ aws ec2 stop-instances \
 
 echo "EC2 instance stop command sent successfully."
 
-#ENDDDDDD
+#END LINE
